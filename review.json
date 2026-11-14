@@ -1,0 +1,1090 @@
+{
+  "anfeli": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 205,
+      "importable": 205,
+      "needsOK": 31,
+      "safe": 174
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 205,
+      "importable": 205,
+      "needsOK": 35,
+      "safe": 170
+    }
+  },
+  "azteck-n3u": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 204,
+      "importable": 204,
+      "needsOK": 31,
+      "safe": 173
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 204,
+      "importable": 204,
+      "needsOK": 35,
+      "safe": 169
+    }
+  },
+  "bazsey": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 34,
+      "safe": 174
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 38,
+      "safe": 170
+    }
+  },
+  "ben-dignitas": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 224,
+      "importable": 224,
+      "needsOK": 38,
+      "safe": 186
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 224,
+      "importable": 224,
+      "needsOK": 42,
+      "safe": 182
+    }
+  },
+  "blooregardqkazoo": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 201,
+      "importable": 201,
+      "needsOK": 28,
+      "safe": 173
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 201,
+      "importable": 201,
+      "needsOK": 32,
+      "safe": 169
+    }
+  },
+  "dannyboydnk": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 210,
+      "importable": 210,
+      "needsOK": 31,
+      "safe": 179
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 210,
+      "importable": 210,
+      "needsOK": 35,
+      "safe": 175
+    }
+  },
+  "daviz-esuba": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 215,
+      "importable": 215,
+      "needsOK": 34,
+      "safe": 181
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 215,
+      "importable": 215,
+      "needsOK": 38,
+      "safe": 177
+    }
+  },
+  "davy-tek9": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 205,
+      "importable": 205,
+      "needsOK": 31,
+      "safe": 174
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 205,
+      "importable": 205,
+      "needsOK": 35,
+      "safe": 170
+    }
+  },
+  "davy-tek9-2": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 203,
+      "importable": 203,
+      "needsOK": 30,
+      "safe": 173
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 203,
+      "importable": 203,
+      "needsOK": 34,
+      "safe": 169
+    }
+  },
+  "dukkie-h2k-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 210,
+      "importable": 210,
+      "needsOK": 31,
+      "safe": 179
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 210,
+      "importable": 210,
+      "needsOK": 35,
+      "safe": 175
+    }
+  },
+  "ecu-tek9": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 31,
+      "safe": 177
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 35,
+      "safe": 173
+    }
+  },
+  "elitnikocka": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 247,
+      "importable": 247,
+      "needsOK": 74,
+      "safe": 173
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 247,
+      "importable": 247,
+      "needsOK": 78,
+      "safe": 169
+    }
+  },
+  "esko-team-fps": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 225,
+      "importable": 225,
+      "needsOK": 42,
+      "safe": 183
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 225,
+      "importable": 225,
+      "needsOK": 46,
+      "safe": 179
+    }
+  },
+  "fajt": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 198,
+      "importable": 198,
+      "needsOK": 29,
+      "safe": 169
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 198,
+      "importable": 198,
+      "needsOK": 30,
+      "safe": 168
+    }
+  },
+  "fazero": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 209,
+      "importable": 209,
+      "needsOK": 28,
+      "safe": 181
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 209,
+      "importable": 209,
+      "needsOK": 32,
+      "safe": 177
+    }
+  },
+  "gpsevdiotis": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 256,
+      "importable": 256,
+      "needsOK": 78,
+      "safe": 178
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 256,
+      "importable": 256,
+      "needsOK": 82,
+      "safe": 174
+    }
+  },
+  "haya-tek9": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 30,
+      "safe": 178
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 34,
+      "safe": 174
+    }
+  },
+  "jonzku-logitech-fi": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 211,
+      "importable": 211,
+      "needsOK": 31,
+      "safe": 180
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 211,
+      "importable": 211,
+      "needsOK": 35,
+      "safe": 176
+    }
+  },
+  "karen": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 192,
+      "importable": 192,
+      "needsOK": 27,
+      "safe": 165
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 192,
+      "importable": 192,
+      "needsOK": 27,
+      "safe": 165
+    }
+  },
+  "karl-reason-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 209,
+      "importable": 209,
+      "needsOK": 35,
+      "safe": 174
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 209,
+      "importable": 209,
+      "needsOK": 39,
+      "safe": 170
+    }
+  },
+  "kasparov-serious-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 207,
+      "importable": 207,
+      "needsOK": 30,
+      "safe": 177
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 207,
+      "importable": 207,
+      "needsOK": 34,
+      "safe": 173
+    }
+  },
+  "kleczysh": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 239,
+      "importable": 239,
+      "needsOK": 64,
+      "safe": 175
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 239,
+      "importable": 239,
+      "needsOK": 68,
+      "safe": 171
+    }
+  },
+  "knaller-tek9": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 211,
+      "importable": 211,
+      "needsOK": 34,
+      "safe": 177
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 211,
+      "importable": 211,
+      "needsOK": 38,
+      "safe": 173
+    }
+  },
+  "knaller-tek9-2": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 205,
+      "importable": 205,
+      "needsOK": 29,
+      "safe": 176
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 205,
+      "importable": 205,
+      "needsOK": 33,
+      "safe": 172
+    }
+  },
+  "kohliii-h2k-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 34,
+      "safe": 174
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 38,
+      "safe": 170
+    }
+  },
+  "l-king-tek9": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 203,
+      "importable": 203,
+      "needsOK": 31,
+      "safe": 172
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 203,
+      "importable": 203,
+      "needsOK": 35,
+      "safe": 168
+    }
+  },
+  "lame-esuba": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 225,
+      "importable": 225,
+      "needsOK": 36,
+      "safe": 189
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 225,
+      "importable": 225,
+      "needsOK": 40,
+      "safe": 185
+    }
+  },
+  "ledax2015": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 210,
+      "importable": 210,
+      "needsOK": 34,
+      "safe": 176
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 210,
+      "importable": 210,
+      "needsOK": 38,
+      "safe": 172
+    }
+  },
+  "lepi": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 223,
+      "importable": 223,
+      "needsOK": 39,
+      "safe": 184
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 223,
+      "importable": 223,
+      "needsOK": 43,
+      "safe": 180
+    }
+  },
+  "luboshmir-esuba": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 212,
+      "importable": 211,
+      "needsOK": 34,
+      "safe": 178
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 212,
+      "importable": 211,
+      "needsOK": 38,
+      "safe": 174
+    }
+  },
+  "luckeeeer-esuba": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 202,
+      "importable": 202,
+      "needsOK": 29,
+      "safe": 173
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 202,
+      "importable": 202,
+      "needsOK": 33,
+      "safe": 169
+    }
+  },
+  "luni-reason-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 212,
+      "importable": 212,
+      "needsOK": 31,
+      "safe": 181
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 212,
+      "importable": 212,
+      "needsOK": 35,
+      "safe": 177
+    }
+  },
+  "maxxx1": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 202,
+      "importable": 202,
+      "needsOK": 29,
+      "safe": 173
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 202,
+      "importable": 202,
+      "needsOK": 33,
+      "safe": 169
+    }
+  },
+  "mick-dignitas": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 207,
+      "importable": 207,
+      "needsOK": 30,
+      "safe": 177
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 207,
+      "importable": 207,
+      "needsOK": 34,
+      "safe": 173
+    }
+  },
+  "mistalow-h2k-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 31,
+      "safe": 177
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 35,
+      "safe": 173
+    }
+  },
+  "monk": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 202,
+      "importable": 202,
+      "needsOK": 29,
+      "safe": 173
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 202,
+      "importable": 202,
+      "needsOK": 33,
+      "safe": 169
+    }
+  },
+  "mozart": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 253,
+      "importable": 253,
+      "needsOK": 77,
+      "safe": 176
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 253,
+      "importable": 253,
+      "needsOK": 81,
+      "safe": 172
+    }
+  },
+  "murdoc-h2k-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 201,
+      "importable": 201,
+      "needsOK": 29,
+      "safe": 172
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 201,
+      "importable": 201,
+      "needsOK": 33,
+      "safe": 168
+    }
+  },
+  "nb-h2k-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 201,
+      "importable": 201,
+      "needsOK": 29,
+      "safe": 172
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 201,
+      "importable": 201,
+      "needsOK": 33,
+      "safe": 168
+    }
+  },
+  "nesh": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 203,
+      "importable": 201,
+      "needsOK": 30,
+      "safe": 173
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 203,
+      "importable": 201,
+      "needsOK": 34,
+      "safe": 169
+    }
+  },
+  "nio-esuba": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 221,
+      "importable": 221,
+      "needsOK": 32,
+      "safe": 189
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 221,
+      "importable": 221,
+      "needsOK": 36,
+      "safe": 185
+    }
+  },
+  "nodlle-esuba": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 33,
+      "safe": 175
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 37,
+      "safe": 171
+    }
+  },
+  "nrai-777": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 32,
+      "safe": 176
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 208,
+      "importable": 208,
+      "needsOK": 36,
+      "safe": 172
+    }
+  },
+  "ozwald-tek9": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 210,
+      "importable": 209,
+      "needsOK": 31,
+      "safe": 179
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 210,
+      "importable": 209,
+      "needsOK": 35,
+      "safe": 175
+    }
+  },
+  "palzm-dignitas": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 210,
+      "importable": 210,
+      "needsOK": 32,
+      "safe": 178
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 210,
+      "importable": 210,
+      "needsOK": 36,
+      "safe": 174
+    }
+  },
+  "plaxz": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 202,
+      "importable": 202,
+      "needsOK": 29,
+      "safe": 173
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 202,
+      "importable": 202,
+      "needsOK": 33,
+      "safe": 169
+    }
+  },
+  "prank-team-pandemic": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 212,
+      "importable": 212,
+      "needsOK": 32,
+      "safe": 180
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 212,
+      "importable": 212,
+      "needsOK": 36,
+      "safe": 176
+    }
+  },
+  "r1k-serious-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 209,
+      "importable": 209,
+      "needsOK": 30,
+      "safe": 179
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 209,
+      "importable": 209,
+      "needsOK": 34,
+      "safe": 175
+    }
+  },
+  "rapz-serious-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 203,
+      "importable": 203,
+      "needsOK": 31,
+      "safe": 172
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 203,
+      "importable": 203,
+      "needsOK": 35,
+      "safe": 168
+    }
+  },
+  "rob-wiz-team-pandemic": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 228,
+      "importable": 228,
+      "needsOK": 43,
+      "safe": 185
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 228,
+      "importable": 228,
+      "needsOK": 47,
+      "safe": 181
+    }
+  },
+  "rob-wiz-team-pandemic-2": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 211,
+      "importable": 211,
+      "needsOK": 38,
+      "safe": 173
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 211,
+      "importable": 211,
+      "needsOK": 42,
+      "safe": 169
+    }
+  },
+  "ruslan": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 241,
+      "importable": 241,
+      "needsOK": 64,
+      "safe": 177
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 241,
+      "importable": 241,
+      "needsOK": 68,
+      "safe": 173
+    }
+  },
+  "sacrim-logitech-fi": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 207,
+      "importable": 207,
+      "needsOK": 31,
+      "safe": 176
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 207,
+      "importable": 207,
+      "needsOK": 35,
+      "safe": 172
+    }
+  },
+  "sec-logitech-fi": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 199,
+      "importable": 199,
+      "needsOK": 30,
+      "safe": 169
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 199,
+      "importable": 199,
+      "needsOK": 34,
+      "safe": 165
+    }
+  },
+  "skipz-dignitas": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 218,
+      "importable": 218,
+      "needsOK": 34,
+      "safe": 184
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 218,
+      "importable": 218,
+      "needsOK": 38,
+      "safe": 180
+    }
+  },
+  "solz-serious-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 209,
+      "importable": 209,
+      "needsOK": 31,
+      "safe": 178
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 209,
+      "importable": 209,
+      "needsOK": 35,
+      "safe": 174
+    }
+  },
+  "spox-h2k-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 220,
+      "importable": 220,
+      "needsOK": 31,
+      "safe": 189
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 220,
+      "importable": 220,
+      "needsOK": 35,
+      "safe": 185
+    }
+  },
+  "stim-logitech-fi": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 206,
+      "importable": 206,
+      "needsOK": 32,
+      "safe": 174
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 206,
+      "importable": 206,
+      "needsOK": 36,
+      "safe": 170
+    }
+  },
+  "street-esuba": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 172,
+      "importable": 172,
+      "needsOK": 21,
+      "safe": 151
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 172,
+      "importable": 172,
+      "needsOK": 25,
+      "safe": 147
+    }
+  },
+  "strumfich": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 204,
+      "importable": 204,
+      "needsOK": 32,
+      "safe": 172
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 204,
+      "importable": 204,
+      "needsOK": 36,
+      "safe": 168
+    }
+  },
+  "torsh-reason-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 215,
+      "importable": 215,
+      "needsOK": 36,
+      "safe": 179
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 215,
+      "importable": 215,
+      "needsOK": 40,
+      "safe": 175
+    }
+  },
+  "toxaaz": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 239,
+      "importable": 239,
+      "needsOK": 64,
+      "safe": 175
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 239,
+      "importable": 239,
+      "needsOK": 68,
+      "safe": 171
+    }
+  },
+  "toxaaz-2023": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 252,
+      "importable": 252,
+      "needsOK": 76,
+      "safe": 176
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 252,
+      "importable": 252,
+      "needsOK": 80,
+      "safe": 172
+    }
+  },
+  "trainee-dignitas": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 213,
+      "importable": 213,
+      "needsOK": 31,
+      "safe": 182
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 213,
+      "importable": 213,
+      "needsOK": 35,
+      "safe": 178
+    }
+  },
+  "w-i-w-dnk": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 220,
+      "importable": 220,
+      "needsOK": 28,
+      "safe": 192
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 220,
+      "importable": 220,
+      "needsOK": 32,
+      "safe": 188
+    }
+  },
+  "winkz-logitech-fi": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 200,
+      "importable": 200,
+      "needsOK": 30,
+      "safe": 170
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 200,
+      "importable": 200,
+      "needsOK": 34,
+      "safe": 166
+    }
+  },
+  "worm91-h2k-gaming": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 202,
+      "importable": 202,
+      "needsOK": 31,
+      "safe": 171
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 202,
+      "importable": 202,
+      "needsOK": 35,
+      "safe": 167
+    }
+  },
+  "zebsteer": {
+    "cod2x": {
+      "blocked": 0,
+      "commands": 250,
+      "importable": 250,
+      "needsOK": 74,
+      "safe": 176
+    },
+    "stock": {
+      "blocked": 0,
+      "commands": 250,
+      "importable": 250,
+      "needsOK": 78,
+      "safe": 172
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "credit": "Lepi",
+  "era": "2026 · CoD2x",
+  "facts": {
+    "frameCap": "250",
+    "resolution": "1920x1080",
+    "sensitivity": "0.125"
+  },
+  "featured": true,
+  "feel": "Full textures, bright picture, 250 fps cap",
+  "platform": "windows",
+  "player": "Lepi",
+  "provenance": {
+    "attribution": "uploaded",
+    "changes": "111 of 334 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and lines that close the game.",
+    "publishedBy": "gamingcfg.com",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://www.gamingcfg.com/config/Lepi-cod2",
+  "story": "Uploaded to gamingcfg.com under this name in 2026. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "CoD2x era",
+    "High frame rate"
+  ]
+}

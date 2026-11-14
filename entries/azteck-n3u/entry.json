@@ -1,0 +1,24 @@
+{
+  "credit": "azteck",
+  "era": "2014",
+  "facts": {
+    "frameCap": "140",
+    "resolution": "1920x1080",
+    "sensitivity": "1.92063"
+  },
+  "feel": "Full textures, standard brightness, 140 fps cap",
+  "platform": "windows",
+  "player": "azteck",
+  "provenance": {
+    "attribution": "self-published",
+    "changes": "106 of 310 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games, settings the game protects and scripts that need other files.",
+    "publishedBy": "Steam Community",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://steamcommunity.com/groups/N3U/discussions/0/35220315829611635/",
+  "story": "Posted by the player in their clan’s Steam group. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "Modern"
+  ],
+  "team": "N3U"
+}

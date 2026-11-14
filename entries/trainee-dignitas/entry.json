@@ -1,0 +1,24 @@
+{
+  "credit": "Trainee",
+  "era": "Classic era, around 2005 to 2008",
+  "facts": {
+    "frameCap": "125",
+    "resolution": "1024x768",
+    "sensitivity": "0.45"
+  },
+  "feel": "Flat textures, standard brightness, 125 fps cap",
+  "platform": "windows",
+  "player": "Trainee",
+  "provenance": {
+    "attribution": "listed",
+    "changes": "83 of 296 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games, settings the game protects and lines the game can’t read.",
+    "publishedBy": "configs.eu",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://configs.eu/games/callofduty2/trainee-cfg/",
+  "story": "configs.eu lists this file under Dignitas. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "Classic era"
+  ],
+  "team": "Dignitas"
+}

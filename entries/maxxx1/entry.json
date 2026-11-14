@@ -1,0 +1,25 @@
+{
+  "credit": "maxXx1",
+  "era": "2026",
+  "facts": {
+    "frameCap": "250",
+    "resolution": "1920x1080",
+    "sensitivity": "2.03571"
+  },
+  "featured": true,
+  "feel": "Flat textures, standard brightness, 250 fps cap",
+  "platform": "windows",
+  "player": "maxXx1",
+  "provenance": {
+    "attribution": "self-published",
+    "changes": "93 of 295 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games and settings the game protects.",
+    "publishedBy": "GitHub",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://github.com/maxXx1/cod2/blob/main/config_mp.cfg",
+  "story": "Published by the player in their own GitHub repository. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "Modern",
+    "High frame rate"
+  ]
+}

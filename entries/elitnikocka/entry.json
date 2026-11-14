@@ -1,0 +1,24 @@
+{
+  "credit": "elitnikocka",
+  "era": "2026 · CoD2x",
+  "facts": {
+    "frameCap": "250",
+    "resolution": "1920x1080",
+    "sensitivity": "1"
+  },
+  "feel": "Flat textures, bright picture, 250 fps cap",
+  "platform": "windows",
+  "player": "elitnikocka",
+  "provenance": {
+    "attribution": "uploaded",
+    "changes": "374 of 621 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+    "publishedBy": "gamingcfg.com",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://www.gamingcfg.com/config/elitnikocka",
+  "story": "Uploaded to gamingcfg.com under this name in 2026. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "CoD2x era",
+    "High frame rate"
+  ]
+}

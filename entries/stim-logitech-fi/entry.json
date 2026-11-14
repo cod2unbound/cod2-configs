@@ -1,0 +1,24 @@
+{
+  "credit": "stim",
+  "era": "Classic era, around 2005 to 2008",
+  "facts": {
+    "frameCap": "125",
+    "resolution": "800x600",
+    "sensitivity": "1.75"
+  },
+  "feel": "Flat textures, standard brightness, 125 fps cap",
+  "platform": "windows",
+  "player": "stim",
+  "provenance": {
+    "attribution": "listed",
+    "changes": "70 of 276 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+    "publishedBy": "configs.eu",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://configs.eu/games/callofduty2/stim-cfg/",
+  "story": "configs.eu lists this file under Logitech.fi. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "Classic era"
+  ],
+  "team": "Logitech.fi"
+}

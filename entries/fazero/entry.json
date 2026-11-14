@@ -1,0 +1,24 @@
+{
+  "credit": "Fazero",
+  "era": "2023 · Original 1.3",
+  "facts": {
+    "frameCap": "250",
+    "resolution": "1920x1080",
+    "sensitivity": "1"
+  },
+  "feel": "Flat textures, standard brightness, 250 fps cap",
+  "platform": "windows",
+  "player": "Fazero",
+  "provenance": {
+    "attribution": "uploaded",
+    "changes": "99 of 308 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games, settings the game protects and scripts that need other files.",
+    "publishedBy": "gamingcfg.com",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://www.gamingcfg.com/config/Fazero",
+  "story": "Uploaded to gamingcfg.com under this name in 2023. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "Modern",
+    "High frame rate"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "credit": "nb",
+  "era": "Classic era, around 2005 to 2008",
+  "facts": {
+    "frameCap": "125",
+    "resolution": "1024x768",
+    "sensitivity": "2.45"
+  },
+  "feel": "Full textures, standard brightness, 125 fps cap",
+  "platform": "windows",
+  "player": "nb",
+  "provenance": {
+    "attribution": "listed",
+    "changes": "90 of 291 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects, scripts that need other files and lines the game can’t read.",
+    "publishedBy": "configs.eu",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://configs.eu/games/callofduty2/nb-cfg/",
+  "story": "configs.eu lists this file under H2k Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "Classic era"
+  ],
+  "team": "H2k Gaming"
+}

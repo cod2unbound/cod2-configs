@@ -1,0 +1,1931 @@
+{
+  "entries": [
+    {
+      "byteCount": 5213,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/anfeli/config.cfg",
+      "credit": "aNfeli",
+      "era": "2014 · Original 1.3",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1280x1024",
+        "sensitivity": "1"
+      },
+      "feel": "Full textures, bright picture, 250 fps cap",
+      "id": "anfeli",
+      "platform": "windows",
+      "player": "aNfeli",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "101 of 306 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "538ef87c2600a3ac97a51ed399b61ddc5dab338a68806d684b7b43c9fd67637b",
+      "sourceURL": "https://www.gamingcfg.com/config/aNfeli",
+      "story": "Uploaded to gamingcfg.com under this name in 2014. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5275,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/azteck-n3u/config.cfg",
+      "credit": "azteck",
+      "era": "2014",
+      "facts": {
+        "frameCap": "140",
+        "resolution": "1920x1080",
+        "sensitivity": "1.92063"
+      },
+      "feel": "Full textures, standard brightness, 140 fps cap",
+      "id": "azteck-n3u",
+      "platform": "windows",
+      "player": "azteck",
+      "provenance": {
+        "attribution": "self-published",
+        "changes": "106 of 310 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "Steam Community",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "dbc52e4f8a63f7f6a71cad21257e98726762d7e7b072c5ac37d184f484b13885",
+      "sourceURL": "https://steamcommunity.com/groups/N3U/discussions/0/35220315829611635/",
+      "story": "Posted by the player in their clan’s Steam group. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern"
+      ],
+      "team": "N3U"
+    },
+    {
+      "byteCount": 5257,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/bazsey/config.cfg",
+      "credit": "Bazsey",
+      "era": "2019 · Original 1.3",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1024x768",
+        "sensitivity": "2.38095"
+      },
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "bazsey",
+      "platform": "windows",
+      "player": "Bazsey",
+      "provenance": {
+        "attribution": "self-published",
+        "changes": "576 of 784 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects, scripts that need other files and lines the game can’t read.",
+        "publishedBy": "GitHub",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "4b2c7d3c505085de9a30164fb71a856bf4591d4c1c37801f763bc587af13003b",
+      "sourceURL": "https://github.com/Bazsey/Cod2refun/blob/master/ultimate.cfg",
+      "story": "Published by the player in their own GitHub repository. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5646,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/ben-dignitas/config.cfg",
+      "credit": "ben",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1024x768",
+        "sensitivity": "1.5"
+      },
+      "featured": true,
+      "feel": "Flat textures, standard brightness, 250 fps cap",
+      "id": "ben-dignitas",
+      "platform": "windows",
+      "player": "ben",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "91 of 315 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "a1a423789822e15b3f87bf1ace7fd2b4aefb70cd04304a17ee63df17c8d471e2",
+      "sourceURL": "https://configs.eu/games/callofduty2/ben-cfg/",
+      "story": "configs.eu lists this file under Dignitas. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era",
+        "High frame rate"
+      ],
+      "team": "Dignitas"
+    },
+    {
+      "byteCount": 5119,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/blooregardqkazoo/config.cfg",
+      "credit": "BlooregardQkazoo",
+      "era": "2025 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "1"
+      },
+      "feel": "Flat textures, standard brightness, 250 fps cap",
+      "id": "blooregardqkazoo",
+      "platform": "windows",
+      "player": "BlooregardQkazoo",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "69 of 270 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "ef7e2170f0373df4718767b5260404b8177c3875190165a4a08847d979362085",
+      "sourceURL": "https://www.gamingcfg.com/config/BlooregardQkazoo",
+      "story": "Uploaded to gamingcfg.com under this name in 2025. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5310,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/dannyboydnk/config.cfg",
+      "credit": "dannyboydNK",
+      "era": "2026 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "0.73"
+      },
+      "feel": "Full textures, bright picture, 250 fps cap",
+      "id": "dannyboydnk",
+      "platform": "windows",
+      "player": "dannyboydNK",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "93 of 303 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games and settings the game protects.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "31689a90398e0a50428b4edcd5eb7a473be6932a0cc11f57cb1426c78506c2b3",
+      "sourceURL": "https://www.gamingcfg.com/config/dannyboydNK",
+      "story": "Uploaded to gamingcfg.com under this name in 2026. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5566,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/daviz-esuba/config.cfg",
+      "credit": "daviz",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1024x768",
+        "sensitivity": "2.6"
+      },
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "daviz-esuba",
+      "platform": "windows",
+      "player": "daviz",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "311 of 526 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games, settings the game protects, scripts that need other files and lines that close the game.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "6bdd18d9543521622c443cd0f5c59228769d67ad0d5ec9611291c46390385695",
+      "sourceURL": "https://configs.eu/games/callofduty2/daviz-cfg/",
+      "story": "configs.eu lists this file under eSuba. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era",
+        "High frame rate"
+      ],
+      "team": "eSuba"
+    },
+    {
+      "byteCount": 5183,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/davy-tek9/config.cfg",
+      "credit": "Davy",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "0.8"
+      },
+      "featured": true,
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "davy-tek9",
+      "platform": "windows",
+      "player": "Davy",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "90 of 295 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "3bdb68e6bfb28ae55df9d7cc3dbbc6a32e87c21b7a18607cca6182a798e84d86",
+      "sourceURL": "https://configs.eu/games/callofduty2/tek9-davy-cfg/",
+      "story": "configs.eu lists this file under TEK9. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "TEK9"
+    },
+    {
+      "byteCount": 5135,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/davy-tek9-2/config.cfg",
+      "credit": "Davy",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "2.8"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "davy-tek9-2",
+      "platform": "windows",
+      "player": "Davy",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "78 of 281 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "b2d77aa803804ee15b7391632411117b4812012878174d58aa19b721c6cf6bd1",
+      "sourceURL": "https://configs.eu/games/callofduty2/davy-cfg-2/",
+      "story": "configs.eu lists this file under TEK9. The hardware it names suggests 2005 to 2008; the page gives no date. The second of two files published for this player. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "TEK9"
+    },
+    {
+      "byteCount": 5333,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/dukkie-h2k-gaming/config.cfg",
+      "credit": "dukkie",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "2"
+      },
+      "featured": true,
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "dukkie-h2k-gaming",
+      "platform": "windows",
+      "player": "dukkie",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "89 of 299 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "e4862758bbf2a5450e43b1eeb4b3a790357cd0ebb85019dfe1c9041ee6efbda9",
+      "sourceURL": "https://configs.eu/games/callofduty2/dukkie-cfg/",
+      "story": "configs.eu lists this file under H2k Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "H2k Gaming"
+    },
+    {
+      "byteCount": 5237,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/ecu-tek9/config.cfg",
+      "credit": "ecu",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "5"
+      },
+      "feel": "Reduced textures, standard brightness, 125 fps cap",
+      "id": "ecu-tek9",
+      "platform": "windows",
+      "player": "ecu",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "113 of 321 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games, settings the game protects, scripts that need other files, lines that close the game and lines the game can’t read.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "6c63a7ef36b9e227953328487606801c2f3590accce9670825b4dc7039299bfd",
+      "sourceURL": "https://configs.eu/games/callofduty2/tek9-ecu-cfg/",
+      "story": "configs.eu lists this file under TEK9. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "TEK9"
+    },
+    {
+      "byteCount": 6549,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/elitnikocka/config.cfg",
+      "credit": "elitnikocka",
+      "era": "2026 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "1"
+      },
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "elitnikocka",
+      "platform": "windows",
+      "player": "elitnikocka",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "374 of 621 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "c6b6dbae6dde5093ef40868bb82cd31519093735a311ef86eb53724c1cac34d7",
+      "sourceURL": "https://www.gamingcfg.com/config/elitnikocka",
+      "story": "Uploaded to gamingcfg.com under this name in 2026. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5742,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/esko-team-fps/config.cfg",
+      "credit": "eSko",
+      "era": "Classic era",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1680x1050",
+        "sensitivity": "2.5"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "esko-team-fps",
+      "platform": "windows",
+      "player": "eSko",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "144 of 369 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games, settings the game protects, scripts that need other files and lines that close the game.",
+        "publishedBy": "GitHub Gist",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "004ba980061645fcbbd27eb586fe70ff1a083ea64624c8a5cf2379767dc9fe17",
+      "sourceURL": "https://gist.github.com/maxXx1/999017ea91672bb742c4",
+      "story": "Posted to a GitHub Gist in 2015 under this name and team. Its settings are from the classic era. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "team-FPS"
+    },
+    {
+      "byteCount": 5024,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/fajt/config.cfg",
+      "credit": "fajt",
+      "era": "2025 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "0.83"
+      },
+      "featured": true,
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "fajt",
+      "platform": "windows",
+      "player": "fajt",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "66 of 264 lines were left out: chat lines, passwords and logins, the player’s name, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "82dc89ed6d1f103bfbd89db668ef5d40d15cce2f416e6a75c5d1c955a1a061f3",
+      "sourceURL": "https://www.gamingcfg.com/config/fajt",
+      "story": "Uploaded to gamingcfg.com under this name in 2025. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5361,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/fazero/config.cfg",
+      "credit": "Fazero",
+      "era": "2023 · Original 1.3",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "1"
+      },
+      "feel": "Flat textures, standard brightness, 250 fps cap",
+      "id": "fazero",
+      "platform": "windows",
+      "player": "Fazero",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "99 of 308 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "69d3da11e3072207a85f0d522ea94d979e39f67adefbe2aaedd0016dcd19cc9e",
+      "sourceURL": "https://www.gamingcfg.com/config/Fazero",
+      "story": "Uploaded to gamingcfg.com under this name in 2023. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 6754,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/gpsevdiotis/config.cfg",
+      "credit": "gpsevdiotis",
+      "era": "2021 · Original 1.3",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "3.5"
+      },
+      "feel": "Full textures, standard brightness, 250 fps cap",
+      "id": "gpsevdiotis",
+      "platform": "windows",
+      "player": "gpsevdiotis",
+      "provenance": {
+        "attribution": "self-published",
+        "changes": "494 of 750 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "GitHub",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "59c5ce8a221ddcdda95de0e0ca6ed3f580bebaa1085eb0a7f7935f7c3e5472b8",
+      "sourceURL": "https://github.com/gpsevdiotis/COD2-cfg/blob/main/config_mp.cfg",
+      "story": "Published by the player in their own GitHub repository. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5290,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/haya-tek9/config.cfg",
+      "credit": "haya",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "5"
+      },
+      "feel": "Full textures, standard brightness, 125 fps cap",
+      "id": "haya-tek9",
+      "platform": "windows",
+      "player": "haya",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "89 of 297 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects, server addresses and lines that close the game.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "afffb04ec5fae95b6a991976cdba93738e84f89c51c9a35b7de8441b908b2ba9",
+      "sourceURL": "https://configs.eu/games/callofduty2/haya-cfg/",
+      "story": "configs.eu lists this file under TEK9. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "TEK9"
+    },
+    {
+      "byteCount": 5359,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/jonzku-logitech-fi/config.cfg",
+      "credit": "jonzku",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "2.3"
+      },
+      "featured": true,
+      "feel": "Reduced textures, bright picture, 125 fps cap",
+      "id": "jonzku-logitech-fi",
+      "platform": "windows",
+      "player": "jonzku",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "98 of 309 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "1659b905fd1f8b10f9555735b782323f0ad38c0584efcedc5248b067d6b4aeab",
+      "sourceURL": "https://configs.eu/games/callofduty2/jonzku-cfg/",
+      "story": "configs.eu lists this file under Logitech.fi. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Logitech.fi"
+    },
+    {
+      "byteCount": 4915,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/karen/config.cfg",
+      "credit": "karen",
+      "era": "2025 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "1.0498"
+      },
+      "featured": true,
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "karen",
+      "platform": "windows",
+      "player": "karen",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "81 of 273 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "a9694a7660447b2aabfa4bfb39e08ae441a021857b24141d673e9b7a9497984b",
+      "sourceURL": "https://www.gamingcfg.com/config/karen-cod2",
+      "story": "Uploaded to gamingcfg.com under this name in 2025. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5244,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/karl-reason-gaming/config.cfg",
+      "credit": "karL",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "2.72619"
+      },
+      "feel": "Full textures, bright picture, 125 fps cap",
+      "id": "karl-reason-gaming",
+      "platform": "windows",
+      "player": "karL",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "92 of 301 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "3a05bd780a7fd8504cd87d6bd25f5239ae2e404e0cd5dbd9f35d22625f4eda9a",
+      "sourceURL": "https://configs.eu/games/callofduty2/karl-cfg/",
+      "story": "configs.eu lists this file under Reason Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Reason Gaming"
+    },
+    {
+      "byteCount": 5231,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/kasparov-serious-gaming/config.cfg",
+      "credit": "kasparov",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "333",
+        "resolution": "1024x768",
+        "sensitivity": "4.5"
+      },
+      "featured": true,
+      "feel": "Flat textures, bright picture, 333 fps cap",
+      "id": "kasparov-serious-gaming",
+      "platform": "windows",
+      "player": "kasparov",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "80 of 287 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "960afd4d72bf162bce0e99ce7b8efe0f89c85fea2324748f5f5704932c673430",
+      "sourceURL": "https://configs.eu/games/callofduty2/kasparov-cfg/",
+      "story": "configs.eu lists this file under Serious Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era",
+        "High frame rate"
+      ],
+      "team": "Serious Gaming"
+    },
+    {
+      "byteCount": 6379,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/kleczysh/config.cfg",
+      "credit": "klECZYSh",
+      "era": "2025 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "1"
+      },
+      "feel": "Full textures, standard brightness, 250 fps cap",
+      "id": "kleczysh",
+      "platform": "windows",
+      "player": "klECZYSh",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "372 of 611 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "c197b1cc2866f395ed76aeeeee700640feaa279a2897eb76c9622e54931fb4aa",
+      "sourceURL": "https://www.gamingcfg.com/config/klECZYSh",
+      "story": "Uploaded to gamingcfg.com under this name in 2025. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5310,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/knaller-tek9/config.cfg",
+      "credit": "KNALLER",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1280x1024",
+        "sensitivity": "1.4"
+      },
+      "featured": true,
+      "feel": "Reduced textures, bright picture, 125 fps cap",
+      "id": "knaller-tek9",
+      "platform": "windows",
+      "player": "KNALLER",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "99 of 310 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "af1a1b1cff41b55b7257e8ce76ea2790583c36ffc65c2def4e6b999382cf2e77",
+      "sourceURL": "https://configs.eu/games/callofduty2/knaller-cfg/",
+      "story": "configs.eu lists this file under TEK9. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "TEK9"
+    },
+    {
+      "byteCount": 5247,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/knaller-tek9-2/config.cfg",
+      "credit": "KNALLER",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "1.2"
+      },
+      "feel": "Reduced textures, standard brightness, 125 fps cap",
+      "id": "knaller-tek9-2",
+      "platform": "windows",
+      "player": "KNALLER",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "88 of 293 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "0a8d74d987ced1c0be1a39d023d739cd2ae91c947975aa81da530ee7652e6cf9",
+      "sourceURL": "https://configs.eu/games/callofduty2/knaller-1-cfg/",
+      "story": "configs.eu lists this file under TEK9. The hardware it names suggests 2005 to 2008; the page gives no date. The second of two files published for this player. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "TEK9"
+    },
+    {
+      "byteCount": 5273,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/kohliii-h2k-gaming/config.cfg",
+      "credit": "Kohliii",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "2.1"
+      },
+      "feel": "Flat textures, bright picture, 125 fps cap",
+      "id": "kohliii-h2k-gaming",
+      "platform": "windows",
+      "player": "Kohliii",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "128 of 336 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games, settings the game protects and lines the game can’t read.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "32921eeb22e03795a759dd5ba8b80ffd028cb9d78b7e37bf06584663ac5068bd",
+      "sourceURL": "https://configs.eu/games/callofduty2/kohliii-cfg/",
+      "story": "configs.eu lists this file under H2k Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "H2k Gaming"
+    },
+    {
+      "byteCount": 5175,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/l-king-tek9/config.cfg",
+      "credit": "L-KiNG",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "19"
+      },
+      "feel": "Reduced textures, standard brightness, 125 fps cap",
+      "id": "l-king-tek9",
+      "platform": "windows",
+      "player": "L-KiNG",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "106 of 309 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "d983d40cd9e20c7d13b8260731e92e730b2fe2396c972dbb855a01c7dd28b6bf",
+      "sourceURL": "https://configs.eu/games/callofduty2/l-king-cfg/",
+      "story": "configs.eu lists this file under TEK9. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "TEK9"
+    },
+    {
+      "byteCount": 5710,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/lame-esuba/config.cfg",
+      "credit": "lame",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "0",
+        "resolution": "1024x768",
+        "sensitivity": "2.9"
+      },
+      "feel": "Flat textures, standard brightness, no frame cap",
+      "id": "lame-esuba",
+      "platform": "windows",
+      "player": "lame",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "91 of 316 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "f2e5067352b84db34c74fdf3f0780b0591c8134e1488352b306ce7d9d49b8aba",
+      "sourceURL": "https://configs.eu/games/callofduty2/lame-cfg/",
+      "story": "configs.eu lists this file under eSuba. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "eSuba"
+    },
+    {
+      "byteCount": 5409,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/ledax2015/config.cfg",
+      "credit": "LEDAX2015",
+      "era": "2015 · Original 1.3",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1680x1050",
+        "sensitivity": "1.82857"
+      },
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "ledax2015",
+      "platform": "windows",
+      "player": "LEDAX2015",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "85 of 295 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "16e9d9cac8dec6d5634ca8de928d6f419ed8cacee1784065337814988a0d8079",
+      "sourceURL": "https://www.gamingcfg.com/config/LEDAX2015",
+      "story": "Uploaded to gamingcfg.com under this name in 2015. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5683,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/lepi/config.cfg",
+      "credit": "Lepi",
+      "era": "2026 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "0.125"
+      },
+      "featured": true,
+      "feel": "Full textures, bright picture, 250 fps cap",
+      "id": "lepi",
+      "platform": "windows",
+      "player": "Lepi",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "111 of 334 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and lines that close the game.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "5c27df1c34513ed393dd7484876112b797894a1848cf068ffdf12bd992477831",
+      "sourceURL": "https://www.gamingcfg.com/config/Lepi-cod2",
+      "story": "Uploaded to gamingcfg.com under this name in 2026. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5378,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/luboshmir-esuba/config.cfg",
+      "credit": "Luboshmir",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "333",
+        "resolution": "800x600",
+        "sensitivity": "5.83332"
+      },
+      "feel": "Flat textures, bright picture, 333 fps cap",
+      "id": "luboshmir-esuba",
+      "platform": "windows",
+      "player": "Luboshmir",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "91 of 303 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "f116dcf9474f2f2d397b6084e98e50751dea081cca9a4a6aa3b6fe1309c52a2d",
+      "sourceURL": "https://configs.eu/games/callofduty2/luboshmir-cfg/",
+      "story": "configs.eu lists this file under eSuba. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era",
+        "High frame rate"
+      ],
+      "team": "eSuba"
+    },
+    {
+      "byteCount": 5325,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/luckeeeer-esuba/config.cfg",
+      "credit": "LuckeEEEr",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "2.4"
+      },
+      "feel": "Full textures, standard brightness, 125 fps cap",
+      "id": "luckeeeer-esuba",
+      "platform": "windows",
+      "player": "LuckeEEEr",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "86 of 288 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "38d9590987e6fa03d54dcd0b2b456d45ba6d2cd0c83a0dda2767001b39829c9e",
+      "sourceURL": "https://configs.eu/games/callofduty2/ir-luckeeeer-cfg/",
+      "story": "configs.eu lists this file under eSuba. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "eSuba"
+    },
+    {
+      "byteCount": 5379,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/luni-reason-gaming/config.cfg",
+      "credit": "LuNi",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "8"
+      },
+      "feel": "Full textures, bright picture, 125 fps cap",
+      "id": "luni-reason-gaming",
+      "platform": "windows",
+      "player": "LuNi",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "75 of 287 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "237dd033e63955db08066bd1a0b86ff414f3c035ab5087930691503f83f605d5",
+      "sourceURL": "https://configs.eu/games/callofduty2/reason-gaming-luni-cfg/",
+      "story": "configs.eu lists this file under Reason Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Reason Gaming"
+    },
+    {
+      "byteCount": 5113,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/maxxx1/config.cfg",
+      "credit": "maxXx1",
+      "era": "2026",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "2.03571"
+      },
+      "featured": true,
+      "feel": "Flat textures, standard brightness, 250 fps cap",
+      "id": "maxxx1",
+      "platform": "windows",
+      "player": "maxXx1",
+      "provenance": {
+        "attribution": "self-published",
+        "changes": "93 of 295 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games and settings the game protects.",
+        "publishedBy": "GitHub",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "5317f9bdaadb6800c9fda3da393dc3e6608889c660806248d2d1e330b60f46ae",
+      "sourceURL": "https://github.com/maxXx1/cod2/blob/main/config_mp.cfg",
+      "story": "Published by the player in their own GitHub repository. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5235,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/mick-dignitas/config.cfg",
+      "credit": "Mick",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "120",
+        "resolution": "1280x1024",
+        "sensitivity": "3.1"
+      },
+      "feel": "Flat textures, bright picture, 120 fps cap",
+      "id": "mick-dignitas",
+      "platform": "windows",
+      "player": "Mick",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "88 of 295 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "bdd2cf8dea828c27940c91bb8a8004170afd03449e18ca72e7ba1ba8233b0a5a",
+      "sourceURL": "https://configs.eu/games/callofduty2/mick1-cfg/",
+      "story": "configs.eu lists this file under Dignitas. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Dignitas"
+    },
+    {
+      "byteCount": 5288,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/mistalow-h2k-gaming/config.cfg",
+      "credit": "MistaLow",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "5.83333"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "mistalow-h2k-gaming",
+      "platform": "windows",
+      "player": "MistaLow",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "87 of 295 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and lines the game can’t read.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "c57d18fcc7aeb9df294e19dbcc12ffd96f5fc41ac6c4db5cfc8c8701dbe26e0c",
+      "sourceURL": "https://configs.eu/games/callofduty2/mistalow-cfg/",
+      "story": "configs.eu lists this file under H2k Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "H2k Gaming"
+    },
+    {
+      "byteCount": 5254,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/monk/config.cfg",
+      "credit": "Monk",
+      "era": "2025 · Original 1.3",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x810",
+        "sensitivity": "1.35"
+      },
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "monk",
+      "platform": "windows",
+      "player": "Monk",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "111 of 313 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "c0cfda050c7d37e6b6ec8942a5ba964d244ae00086a39df2b6debf038d91b426",
+      "sourceURL": "https://www.gamingcfg.com/config/Monk-cod2",
+      "story": "Uploaded to gamingcfg.com under this name in 2025. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 6677,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/mozart/config.cfg",
+      "credit": "mozart",
+      "era": "2023 · Original 1.3",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "0.81"
+      },
+      "feel": "Full textures, standard brightness, 250 fps cap",
+      "id": "mozart",
+      "platform": "windows",
+      "player": "mozart",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "397 of 650 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "4e9fec8f31835dc7c2b44db62486d0454f97f04d85ebcfe564d4a5b7d474af11",
+      "sourceURL": "https://www.gamingcfg.com/config/mozart-cod2",
+      "story": "Uploaded to gamingcfg.com under this name in 2023. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5101,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/murdoc-h2k-gaming/config.cfg",
+      "credit": "Murdoc",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "2"
+      },
+      "feel": "Flat textures, bright picture, 125 fps cap",
+      "id": "murdoc-h2k-gaming",
+      "platform": "windows",
+      "player": "Murdoc",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "83 of 284 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "264a570690f40d179ad4cfe460a4de83f559bdcbd939734f239877edc9879d49",
+      "sourceURL": "https://configs.eu/games/callofduty2/murdoc-cfg/",
+      "story": "configs.eu lists this file under H2k Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "H2k Gaming"
+    },
+    {
+      "byteCount": 5103,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/nb-h2k-gaming/config.cfg",
+      "credit": "nb",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "2.45"
+      },
+      "feel": "Full textures, standard brightness, 125 fps cap",
+      "id": "nb-h2k-gaming",
+      "platform": "windows",
+      "player": "nb",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "90 of 291 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects, scripts that need other files and lines the game can’t read.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "14d005769758786a13bcc91dbc6bf734dfd0f5b6369dbdeba3d0c301dbfa1f49",
+      "sourceURL": "https://configs.eu/games/callofduty2/nb-cfg/",
+      "story": "configs.eu lists this file under H2k Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "H2k Gaming"
+    },
+    {
+      "byteCount": 5171,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/nesh/config.cfg",
+      "credit": "neSh",
+      "era": "2022 · Original 1.3",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "2560x1440",
+        "sensitivity": "2.9"
+      },
+      "feel": "Full textures, bright picture, 250 fps cap",
+      "id": "nesh",
+      "platform": "windows",
+      "player": "neSh",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "515 of 718 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, timed key macros, settings of other games, settings the game protects, scripts that need other files and lines the game can’t read.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "af1caa412e589aeb7262d5ee33213fc65ea821807d240b463612aa05fdfa270c",
+      "sourceURL": "https://www.gamingcfg.com/config/neSh",
+      "story": "Uploaded to gamingcfg.com under this name in 2022. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5587,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/nio-esuba/config.cfg",
+      "credit": "NiO",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "800x600",
+        "sensitivity": "2.38094"
+      },
+      "featured": true,
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "nio-esuba",
+      "platform": "windows",
+      "player": "NiO",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "113 of 334 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "cb479fad59034dea902c553d98c3c00758379d35f2d64665610d385529510b3b",
+      "sourceURL": "https://configs.eu/games/callofduty2/nio-cfg/",
+      "story": "configs.eu lists this file under eSuba. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era",
+        "High frame rate"
+      ],
+      "team": "eSuba"
+    },
+    {
+      "byteCount": 5239,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/nodlle-esuba/config.cfg",
+      "credit": "Nodlle",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "2"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "nodlle-esuba",
+      "platform": "windows",
+      "player": "Nodlle",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "107 of 315 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "3f68078efdc478f2196ba8123e8c2d18b27114e94448e9990a0fce16cc148a5a",
+      "sourceURL": "https://configs.eu/games/callofduty2/nodlle-cfg/",
+      "story": "configs.eu lists this file under eSuba. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "eSuba"
+    },
+    {
+      "byteCount": 5336,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/nrai-777/config.cfg",
+      "credit": "nrai 777",
+      "era": "2025 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "0.98"
+      },
+      "feel": "Flat textures, standard brightness, 250 fps cap",
+      "id": "nrai-777",
+      "platform": "windows",
+      "player": "nrai 777",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "320 of 528 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "746c83d65514aeecf12c448fb5f4ebc68b5c6e6c9fc543f53118430337ef41ba",
+      "sourceURL": "https://www.gamingcfg.com/config/nrai-777",
+      "story": "Uploaded to gamingcfg.com under this name in 2025. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5376,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/ozwald-tek9/config.cfg",
+      "credit": "OZWALD",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "0",
+        "resolution": "800x600",
+        "sensitivity": "2"
+      },
+      "feel": "Full textures, standard brightness, no frame cap",
+      "id": "ozwald-tek9",
+      "platform": "windows",
+      "player": "OZWALD",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "79 of 289 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games, settings the game protects and lines that close the game.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "996ec562391dcc49de205a3100955f83d31660580fbc96e9b4e1fd3ecfbed1f0",
+      "sourceURL": "https://configs.eu/games/callofduty2/webone-ozwald-cfg/",
+      "story": "configs.eu lists this file under TEK9. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "TEK9"
+    },
+    {
+      "byteCount": 5323,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/palzm-dignitas/config.cfg",
+      "credit": "palzm",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "400",
+        "resolution": "800x600",
+        "sensitivity": "2.4"
+      },
+      "feel": "Flat textures, standard brightness, 400 fps cap",
+      "id": "palzm-dignitas",
+      "platform": "windows",
+      "player": "palzm",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "99 of 309 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games, settings the game protects, server addresses and lines the game can’t read.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "ff1d00b9c6626168e0792f0d6489bab257326c826724c3e3d54ae78640c67d22",
+      "sourceURL": "https://configs.eu/games/callofduty2/palzm-cfg/",
+      "story": "configs.eu lists this file under Dignitas. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era",
+        "High frame rate"
+      ],
+      "team": "Dignitas"
+    },
+    {
+      "byteCount": 5145,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/plaxz/config.cfg",
+      "credit": "PLAXZ",
+      "era": "2018 · Original 1.3",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "0.41"
+      },
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "plaxz",
+      "platform": "windows",
+      "player": "PLAXZ",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "72 of 274 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "358f500a90d970e787d0aa02416c85aa97498759cd73d973edbfebad55d42f38",
+      "sourceURL": "https://www.gamingcfg.com/config/PLAXZ-LAN-CFG",
+      "story": "Uploaded to gamingcfg.com under this name in 2018. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5388,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/prank-team-pandemic/config.cfg",
+      "credit": "prank",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1280x1024",
+        "sensitivity": "5"
+      },
+      "featured": true,
+      "feel": "Full textures, standard brightness, 125 fps cap",
+      "id": "prank-team-pandemic",
+      "platform": "windows",
+      "player": "prank",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "89 of 301 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games, settings the game protects and server addresses.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "9145d25266c78f1d55600108420319aa62be49c29d42a7eccd5e3ea45d01f858",
+      "sourceURL": "https://configs.eu/games/callofduty2/prank-cfg/",
+      "story": "configs.eu lists this file under Team Pandemic. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Team Pandemic"
+    },
+    {
+      "byteCount": 5268,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/r1k-serious-gaming/config.cfg",
+      "credit": "r1k",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "999",
+        "resolution": "1024x768",
+        "sensitivity": "2.5"
+      },
+      "feel": "Flat textures, standard brightness, 999 fps cap",
+      "id": "r1k-serious-gaming",
+      "platform": "windows",
+      "player": "r1k",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "84 of 293 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "07e370d22fde2feae873988037108ec19dab059934b2b609ef3159950531ffad",
+      "sourceURL": "https://configs.eu/games/callofduty2/r1k-cfg/",
+      "story": "configs.eu lists this file under Serious Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era",
+        "High frame rate"
+      ],
+      "team": "Serious Gaming"
+    },
+    {
+      "byteCount": 5133,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/rapz-serious-gaming/config.cfg",
+      "credit": "rapz",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "1.6"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "rapz-serious-gaming",
+      "platform": "windows",
+      "player": "rapz",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "87 of 290 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "a7f4fa9813595daaba501a640e030c4df565255cfb66ea24f02800be555bf948",
+      "sourceURL": "https://configs.eu/games/callofduty2/rapz-cfg/",
+      "story": "configs.eu lists this file under Serious Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Serious Gaming"
+    },
+    {
+      "byteCount": 5742,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/rob-wiz-team-pandemic/config.cfg",
+      "credit": "rob-wiz",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1024x768",
+        "sensitivity": "2"
+      },
+      "feel": "Reduced textures, bright picture, 250 fps cap",
+      "id": "rob-wiz-team-pandemic",
+      "platform": "windows",
+      "player": "rob-wiz",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "138 of 366 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "b9e3ce55f49948ee3ca1d92bf86d8baf5066b0106bb2431dd3bc4f2d148262f2",
+      "sourceURL": "https://configs.eu/games/callofduty2/rob-wiz-cfg/",
+      "story": "configs.eu lists this file under Team Pandemic. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era",
+        "High frame rate"
+      ],
+      "team": "Team Pandemic"
+    },
+    {
+      "byteCount": 5329,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/rob-wiz-team-pandemic-2/config.cfg",
+      "credit": "rob-wiz",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "640x480",
+        "sensitivity": "0.8"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "rob-wiz-team-pandemic-2",
+      "platform": "windows",
+      "player": "rob-wiz",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "130 of 341 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "462bf581930efc49fdb075db4a1d97b0eda9a10b7f432d36b3cf5fb13f21331e",
+      "sourceURL": "https://configs.eu/games/callofduty2/robwiz-cfg/",
+      "story": "configs.eu lists this file under Team Pandemic. The hardware it names suggests 2005 to 2008; the page gives no date. The second of two files published for this player. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Team Pandemic"
+    },
+    {
+      "byteCount": 6371,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/ruslan/config.cfg",
+      "credit": "ruslan",
+      "era": "2026 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1280x1024",
+        "sensitivity": "0.42"
+      },
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "ruslan",
+      "platform": "windows",
+      "player": "ruslan",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "360 of 601 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "e63b6c556e353c31f6da73d4482ce1e670739f5a9eedccf00ede5a8ef98244a6",
+      "sourceURL": "https://www.gamingcfg.com/config/ruslan-cod2",
+      "story": "Uploaded to gamingcfg.com under this name in 2026. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5247,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/sacrim-logitech-fi/config.cfg",
+      "credit": "sacrim",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "3.33"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "sacrim-logitech-fi",
+      "platform": "windows",
+      "player": "sacrim",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "99 of 306 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "19b850bbc546e351d27fadde09270b863f028be307cdffc7b897219a90880031",
+      "sourceURL": "https://configs.eu/games/callofduty2/sacrim-cfg/",
+      "story": "configs.eu lists this file under Logitech.fi. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Logitech.fi"
+    },
+    {
+      "byteCount": 5059,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/sec-logitech-fi/config.cfg",
+      "credit": "sec",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "3.4"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "sec-logitech-fi",
+      "platform": "windows",
+      "player": "sec",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "87 of 286 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "d1caeb4120532040fbfe1e28a1a8102518861e93178ab86216a59158f388c6a5",
+      "sourceURL": "https://configs.eu/games/callofduty2/sec-cfg/",
+      "story": "configs.eu lists this file under Logitech.fi. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Logitech.fi"
+    },
+    {
+      "byteCount": 5535,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/skipz-dignitas/config.cfg",
+      "credit": "skipz",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "85",
+        "resolution": "1280x1024",
+        "sensitivity": "2.4"
+      },
+      "featured": true,
+      "feel": "Flat textures, bright picture, 85 fps cap",
+      "id": "skipz-dignitas",
+      "platform": "windows",
+      "player": "skipz",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "103 of 321 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, timed key macros, settings of other games, settings the game protects and lines the game can’t read.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "40d3b5a89db0b87e3dbab58dcaf8507db3fa4f77d0b95d5f2dc1bcbe7d4468a2",
+      "sourceURL": "https://configs.eu/games/callofduty2/skipz-cfg/",
+      "story": "configs.eu lists this file under Dignitas. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Dignitas"
+    },
+    {
+      "byteCount": 5285,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/solz-serious-gaming/config.cfg",
+      "credit": "solz",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "1.35"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "solz-serious-gaming",
+      "platform": "windows",
+      "player": "solz",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "89 of 298 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "3d0fc979e2d630d4bde767c568cfdc46f8c803a6cd6254c440600884689085c9",
+      "sourceURL": "https://configs.eu/games/callofduty2/solz-cfg/",
+      "story": "configs.eu lists this file under Serious Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Serious Gaming"
+    },
+    {
+      "byteCount": 5590,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/spox-h2k-gaming/config.cfg",
+      "credit": "SpoX",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "0.75"
+      },
+      "featured": true,
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "spox-h2k-gaming",
+      "platform": "windows",
+      "player": "SpoX",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "91 of 311 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, timed key macros, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "9d1eb943f50597a3b9289dd8f31cf34570aaa0d4a9d7687cc7fc3fa02d2c1abe",
+      "sourceURL": "https://configs.eu/games/callofduty2/spox-cfg/",
+      "story": "configs.eu lists this file under H2k Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "H2k Gaming"
+    },
+    {
+      "byteCount": 5217,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/stim-logitech-fi/config.cfg",
+      "credit": "stim",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "1.75"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "stim-logitech-fi",
+      "platform": "windows",
+      "player": "stim",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "70 of 276 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "56850eb48276755fce3cec65b651a7ec5680e2ffe2c64f76858462c1abe33e87",
+      "sourceURL": "https://configs.eu/games/callofduty2/stim-cfg/",
+      "story": "configs.eu lists this file under Logitech.fi. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Logitech.fi"
+    },
+    {
+      "byteCount": 4513,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/street-esuba/config.cfg",
+      "credit": "street",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "5"
+      },
+      "feel": "Full textures, standard brightness, 125 fps cap",
+      "id": "street-esuba",
+      "platform": "windows",
+      "player": "street",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "97 of 269 lines were left out: passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and lines the game can’t read.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "0d2df87a887f992ced83bb4c909fd2bebb39a03ae3736fa47c8c8ba09c84e4e5",
+      "sourceURL": "https://configs.eu/games/callofduty2/street-cfg/",
+      "story": "configs.eu lists this file under eSuba. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "eSuba"
+    },
+    {
+      "byteCount": 5190,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/strumfich/config.cfg",
+      "credit": "strumfich",
+      "era": "2012 · Original 1.3",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1280x1024",
+        "sensitivity": "0.5"
+      },
+      "feel": "Full textures, standard brightness, 125 fps cap",
+      "id": "strumfich",
+      "platform": "windows",
+      "player": "strumfich",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "98 of 302 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games, settings the game protects, scripts that need other files and lines the game can’t read.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "7336b28fe0522e94980e337e3e57f0ea70109917e0a3879d73dbc43673cef41b",
+      "sourceURL": "https://www.gamingcfg.com/config/strumfich",
+      "story": "Uploaded to gamingcfg.com under this name in 2012. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern"
+      ]
+    },
+    {
+      "byteCount": 5404,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/torsh-reason-gaming/config.cfg",
+      "credit": "torsh",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "1.7"
+      },
+      "feel": "Flat textures, bright picture, 125 fps cap",
+      "id": "torsh-reason-gaming",
+      "platform": "windows",
+      "player": "torsh",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "106 of 321 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games, settings the game protects and server addresses.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "1e4660cd7544952278007aa01627e10d04b2c82945ff714c7bbbcb2f80a65c15",
+      "sourceURL": "https://configs.eu/games/callofduty2/torsh-cfg/",
+      "story": "configs.eu lists this file under Reason Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Reason Gaming"
+    },
+    {
+      "byteCount": 6318,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/toxaaz/config.cfg",
+      "credit": "toxaaz",
+      "era": "2025 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "0.8"
+      },
+      "feel": "Flat textures, standard brightness, 250 fps cap",
+      "id": "toxaaz",
+      "platform": "windows",
+      "player": "toxaaz",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "383 of 622 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "1c9d46db463595e9d958cfb1c6616029a7328aed74332e49943326c1aeff58c6",
+      "sourceURL": "https://www.gamingcfg.com/config/toxaaz-cod2",
+      "story": "Uploaded to gamingcfg.com under this name in 2025. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 6780,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/toxaaz-2023/config.cfg",
+      "credit": "toxaaz",
+      "era": "2023 · Original 1.3",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "1.4"
+      },
+      "feel": "Flat textures, bright picture, 250 fps cap",
+      "id": "toxaaz-2023",
+      "platform": "windows",
+      "player": "toxaaz",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "407 of 659 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "7e69794e4ba8a5d5ded85ed9c37fdb6dcae5076580ae34e5cb26cfd8427b015a",
+      "sourceURL": "https://www.gamingcfg.com/config/toxaaz-2k23",
+      "story": "Uploaded to gamingcfg.com under this name in 2023. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5427,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/trainee-dignitas/config.cfg",
+      "credit": "Trainee",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "0.45"
+      },
+      "feel": "Flat textures, standard brightness, 125 fps cap",
+      "id": "trainee-dignitas",
+      "platform": "windows",
+      "player": "Trainee",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "83 of 296 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games, settings the game protects and lines the game can’t read.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "af89febbcd0b2d3eb04cb096697760a755febf49f9a84a6d455b7307f95b6b42",
+      "sourceURL": "https://configs.eu/games/callofduty2/trainee-cfg/",
+      "story": "configs.eu lists this file under Dignitas. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Dignitas"
+    },
+    {
+      "byteCount": 5524,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/w-i-w-dnk/config.cfg",
+      "credit": "w.I.w dNK",
+      "era": "2026",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "1"
+      },
+      "feel": "Full textures, bright picture, 250 fps cap",
+      "id": "w-i-w-dnk",
+      "platform": "windows",
+      "player": "w.I.w dNK",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "81 of 301 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "81801b1ab385e62c30b66c7c6dc77bbe0932666e10e2a940f29dac781a7d4fd8",
+      "sourceURL": "https://www.gamingcfg.com/config/w.I.w-dNK",
+      "story": "Uploaded to gamingcfg.com under this name in 2026. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Modern",
+        "High frame rate"
+      ]
+    },
+    {
+      "byteCount": 5075,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/winkz-logitech-fi/config.cfg",
+      "credit": "winkz",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "1024x768",
+        "sensitivity": "0.6"
+      },
+      "feel": "Reduced textures, standard brightness, 125 fps cap",
+      "id": "winkz-logitech-fi",
+      "platform": "windows",
+      "player": "winkz",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "67 of 267 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "fbc74dac62ff9b0301bd011355c674c799f8904fbd9ef456a4e7daaee7e937aa",
+      "sourceURL": "https://configs.eu/games/callofduty2/winkz-cfg/",
+      "story": "configs.eu lists this file under Logitech.fi. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "Logitech.fi"
+    },
+    {
+      "byteCount": 5142,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/worm91-h2k-gaming/config.cfg",
+      "credit": "woRm91",
+      "era": "Classic era, around 2005 to 2008",
+      "facts": {
+        "frameCap": "125",
+        "resolution": "800x600",
+        "sensitivity": "2.5"
+      },
+      "feel": "Flat textures, bright picture, 125 fps cap",
+      "id": "worm91-h2k-gaming",
+      "platform": "windows",
+      "player": "woRm91",
+      "provenance": {
+        "attribution": "listed",
+        "changes": "88 of 290 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "configs.eu",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "b3dba0af79f99e7d990cc9f3e38d3567d131d8498232943ad661528a2124f0be",
+      "sourceURL": "https://configs.eu/games/callofduty2/worm91-cfg/",
+      "story": "configs.eu lists this file under H2k Gaming. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "Classic era"
+      ],
+      "team": "H2k Gaming"
+    },
+    {
+      "byteCount": 6628,
+      "configURL": "https://raw.githubusercontent.com/STiXzoOR/cod2-configs/main/entries/zebsteer/config.cfg",
+      "credit": "zebsteer",
+      "era": "2025 · CoD2x",
+      "facts": {
+        "frameCap": "250",
+        "resolution": "1920x1080",
+        "sensitivity": "0.345"
+      },
+      "feel": "Full textures, bright picture, 250 fps cap",
+      "id": "zebsteer",
+      "platform": "windows",
+      "player": "zebsteer",
+      "provenance": {
+        "attribution": "uploaded",
+        "changes": "386 of 636 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+        "publishedBy": "gamingcfg.com",
+        "retrievedAt": "2026-10-06"
+      },
+      "sha256": "1a59f4a6efa5f5b9b6626e18c4d437d6e630b859c1caaf5ce8b9fc196f93cb9c",
+      "sourceURL": "https://www.gamingcfg.com/config/zebsteer",
+      "story": "Uploaded to gamingcfg.com under this name in 2025. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+      "styleTags": [
+        "CoD2x era",
+        "High frame rate"
+      ]
+    }
+  ],
+  "revision": 1,
+  "schemaVersion": 1
+}

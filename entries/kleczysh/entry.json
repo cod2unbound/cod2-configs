@@ -1,0 +1,24 @@
+{
+  "credit": "klECZYSh",
+  "era": "2025 · CoD2x",
+  "facts": {
+    "frameCap": "250",
+    "resolution": "1920x1080",
+    "sensitivity": "1"
+  },
+  "feel": "Full textures, standard brightness, 250 fps cap",
+  "platform": "windows",
+  "player": "klECZYSh",
+  "provenance": {
+    "attribution": "uploaded",
+    "changes": "372 of 611 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games, settings the game protects and scripts that need other files.",
+    "publishedBy": "gamingcfg.com",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://www.gamingcfg.com/config/klECZYSh",
+  "story": "Uploaded to gamingcfg.com under this name in 2025. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "CoD2x era",
+    "High frame rate"
+  ]
+}

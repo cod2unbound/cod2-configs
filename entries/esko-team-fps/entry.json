@@ -1,0 +1,24 @@
+{
+  "credit": "eSko",
+  "era": "Classic era",
+  "facts": {
+    "frameCap": "125",
+    "resolution": "1680x1050",
+    "sensitivity": "2.5"
+  },
+  "feel": "Flat textures, standard brightness, 125 fps cap",
+  "platform": "windows",
+  "player": "eSko",
+  "provenance": {
+    "attribution": "uploaded",
+    "changes": "144 of 369 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games, settings the game protects, scripts that need other files and lines that close the game.",
+    "publishedBy": "GitHub Gist",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://gist.github.com/maxXx1/999017ea91672bb742c4",
+  "story": "Posted to a GitHub Gist in 2015 under this name and team. Its settings are from the classic era. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "Classic era"
+  ],
+  "team": "team-FPS"
+}

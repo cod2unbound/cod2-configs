@@ -1,0 +1,24 @@
+{
+  "credit": "w.I.w dNK",
+  "era": "2026",
+  "facts": {
+    "frameCap": "250",
+    "resolution": "1920x1080",
+    "sensitivity": "1"
+  },
+  "feel": "Full textures, bright picture, 250 fps cap",
+  "platform": "windows",
+  "player": "w.I.w dNK",
+  "provenance": {
+    "attribution": "uploaded",
+    "changes": "81 of 301 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server hosting settings, settings of other games and settings the game protects.",
+    "publishedBy": "gamingcfg.com",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://www.gamingcfg.com/config/w.I.w-dNK",
+  "story": "Uploaded to gamingcfg.com under this name in 2026. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "Modern",
+    "High frame rate"
+  ]
+}

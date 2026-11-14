@@ -1,0 +1,24 @@
+{
+  "credit": "OZWALD",
+  "era": "Classic era, around 2005 to 2008",
+  "facts": {
+    "frameCap": "0",
+    "resolution": "800x600",
+    "sensitivity": "2"
+  },
+  "feel": "Full textures, standard brightness, no frame cap",
+  "platform": "windows",
+  "player": "OZWALD",
+  "provenance": {
+    "attribution": "listed",
+    "changes": "79 of 289 lines were left out: chat lines, passwords and logins, the player’s name, file paths and hardware details, server admin commands, server hosting settings, settings of other games, settings the game protects and lines that close the game.",
+    "publishedBy": "configs.eu",
+    "retrievedAt": "2026-10-06"
+  },
+  "sourceURL": "https://configs.eu/games/callofduty2/webone-ozwald-cfg/",
+  "story": "configs.eu lists this file under TEK9. The hardware it names suggests 2005 to 2008; the page gives no date. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "Classic era"
+  ],
+  "team": "TEK9"
+}
