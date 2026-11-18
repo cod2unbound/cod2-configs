@@ -1,7 +1,7 @@
 # cod2-configs
 
 Player setups for Call of Duty 2, collected from public pages and credited to where they were
-published. [CoD2 Silicon](https://github.com/cod2unbound/cod2-unbound) shows them under
+published. [CoD2 Unbound](https://cod2unbound.com) shows them under
 Configs · Home, where a setup is reviewed line by line before anything is imported.
 
 The list of setups is in [INDEX.md](INDEX.md).
@@ -31,7 +31,7 @@ will be removed or corrected, no reason needed.
 
 ## How the catalogue is built
 
-The tools are in the CoD2 Silicon repository under
+The tools are in the CoD2 Unbound repository under
 [`tools/config-directory`](https://github.com/cod2unbound/cod2-unbound/tree/main/tools/config-directory).
 `clean` prepares a published config with the launcher's own import review, `generate.py` checks
 every entry and writes `index.json`, and the maintainer signs the index. The launcher only accepts
