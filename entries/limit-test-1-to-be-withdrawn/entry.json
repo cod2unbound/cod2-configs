@@ -1,0 +1,22 @@
+{
+  "credit": "Limit test 1 (to be withdrawn)",
+  "era": "2026 · Original 1.3",
+  "facts": {
+    "frameCap": "125",
+    "sensitivity": "1.1"
+  },
+  "feel": "Standard brightness, 125 fps cap",
+  "platform": "native",
+  "player": "Limit test 1 (to be withdrawn)",
+  "provenance": {
+    "attribution": "self-published",
+    "changes": "Nothing was left out.",
+    "publishedBy": "CoD2 Unbound",
+    "retrievedAt": "2026-11-21"
+  },
+  "sourceURL": "https://github.com/cod2unbound/cod2-configs/pulls",
+  "story": "Shared by the player from CoD2 Unbound. Sensitivity can’t be compared between players without the mouse’s DPI, which the file doesn’t give.",
+  "styleTags": [
+    "Modern"
+  ]
+}
